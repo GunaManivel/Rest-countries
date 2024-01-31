@@ -1,0 +1,40 @@
+.pad {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.card-header {
+    background-color: rgb(32, 30, 30);
+    color: white;
+   
+}
+h1 {
+    font-size: large;
+    font-family:Audiowide!important;
+}
+body {
+    background-color: rgb(185, 196, 206);
+}
+.container {
+    border-radius: 3% !important;
+}
+
+.card-img-top {
+    width: 100%;
+    display: flex!important;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    
+}
+.card-body {
+    color:black;
+    background-color: #1e1d1b;
+        background-image: linear-gradient(to left, #1e1d1b 0%, #e6bf71 64%);
+        font-family:Arbutus !important;
+        font-size: medium;
+}
+.card-footer {
+    font-family: Audiowide;
+}
